@@ -1,0 +1,32 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Summer Floral Dress",
+      "price": 49.99,
+      "discount": 20,
+      "category": "Women",
+      "images": [
+        "https://images.pexels.com/photos/1021693/pexels-photo-1021693.jpeg",
+        "https://images.pexels.com/photos/157675/fashion-men-s-individuality-black-and-white-157675.jpeg"
+      ],
+      "soldOut": false,
+      "rating": 4.5,
+      "colors": ["Red", "Blue", "White"],
+      "sizes": ["S", "M", "L", "XL"]
+    },
+    {
+      "id": 2,
+      "name": "Men's Casual Shirt",
+      "price": 39.99,
+      "category": "Men",
+      "images": [
+        "https://images.pexels.com/photos/297933/pexels-photo-297933.jpeg"
+      ],
+      "soldOut": true,
+      "rating": 4.2,
+      "colors": ["Black", "Gray"],
+      "sizes": ["M", "L", "XL"]
+    }
+  ]
+}
